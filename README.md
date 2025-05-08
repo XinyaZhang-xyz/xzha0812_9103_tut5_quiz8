@@ -23,12 +23,14 @@
     - *Figure 3：Code of Sands 002*
 
        ![Figure 3：Code of Artwork 1](assets/Figure1_Code.png)
-       > Link to the example code of Artwork 1: [Sands 002] (https://openprocessing.org/sketch/1353598)
+       > Link to the example code of Artwork 1:
+       [Sands 002](https://openprocessing.org/sketch/1353598)
 
     - *Figure 4：Code of Marielle Semente*
 
        ![Figure 4：Code of Artwork 2](assets/Figure2_Code.png)
-       > Link to the example code of Artwotk 2: [Marielle Semente](http://openprocessing.org/sketch/873380)
+       > Link to the example code of Artwork 2:
+       [Marielle Semente](http://openprocessing.org/sketch/873380)
  
 
 
